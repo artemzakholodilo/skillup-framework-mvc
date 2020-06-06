@@ -1,0 +1,13 @@
+{
+    "name": "artem/php_lesson_test.ll",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src",
+            "Test\\": "tests"
+        }
+    }
+}
